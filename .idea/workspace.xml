@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="518fe0e1-12ce-44e4-ab70-f737c7557027" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons1-10.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1848">
+              <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="39" />
+              <folding>
+                <marker date="1553160600479" expanded="true" signature="960:1817" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/lessons11.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="404">
+              <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/game.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="352">
+              <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="40" selection-end-column="28" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <marker date="1553173239052" expanded="true" signature="3:572" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>news</find>
+      <find>order_s</find>
+      <find>addorderhistory</find>
+      <find>pickup_order_status_id</find>
+      <find>post</find>
+      <find>method</find>
+      <find>getOrder</find>
+      <find>laz</find>
+      <find>$li</find>
+      <find>noindex</find>
+      <find>pagin</find>
+      <find>768</find>
+      <find>createElements</find>
+      <find>flex-class-row</find>
+      <find>list</find>
+      <find>script&gt;</find>
+      <find>prod</find>
+      <find>&lt;lin</find>
+      <find>localStorage</find>
+      <find>first-image</find>
+      <find>O</find>
+      <find>textContent</find>
+      <find>positions</find>
+      <find>ВЕТЕРИНАРА</find>
+      <find>Адаптер для EHEIM Professionel 1_eXperience 150_250 (2222-2324_2422_2424)</find>
+      <find>products</find>
+      <find>flex-</find>
+      <find>ins</find>
+      <find>12</find>
+      <find>warranty</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/order 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/odmproyml_update_yml_link.php" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/../../Operation/unishop_template_v2.3.2.0/upload/catalog/view/theme/unishop/template/product/product.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/config 2.php" />
+        <option value="$PROJECT_DIR$/js/lessons3.js" />
+        <option value="$PROJECT_DIR$/../../Module/Оплата при самовывозе(Метод оплаты)/catalog/controller/extension/payment/pickup.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/receipt.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/cod 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/success.php" />
+        <option value="$PROJECT_DIR$/js/lessons4.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/stylesheet.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/category 2.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style_grilli.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/search.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/category.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/mega_filter.js" />
+        <option value="$PROJECT_DIR$/js/lessons5.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
+        <option value="$PROJECT_DIR$/js/lessons6.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart.php" />
+        <option value="$PROJECT_DIR$/js/lessons7.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/home.php" />
+        <option value="$PROJECT_DIR$/js/lessons8.js" />
+        <option value="$USER_HOME$/Desktop/work.xml" />
+        <option value="$USER_HOME$/Desktop/aua.xml" />
+        <option value="$PROJECT_DIR$/js/lessons9.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl" />
+        <option value="$PROJECT_DIR$/../../Operation/Импорт/index.xml" />
+        <option value="$PROJECT_DIR$/../../Operation/Импорт/xml_sample_priceua.xml" />
+        <option value="$PROJECT_DIR$/js/lessons10.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.tpl" />
+        <option value="$PROJECT_DIR$/js/game.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/lessons11.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="201" />
+    <option name="y" value="134" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../zoocomplexbeckUp11.03.2019" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="518fe0e1-12ce-44e4-ab70-f737c7557027" name="Default Changelist" comment="" />
+      <created>1552287863269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552287863269</updated>
+      <workItem from="1552287865775" duration="2648000" />
+      <workItem from="1552290660193" duration="21612000" />
+      <workItem from="1552372624239" duration="16499000" />
+      <workItem from="1552463357189" duration="15857000" />
+      <workItem from="1552543965839" duration="18370000" />
+      <workItem from="1552633383926" duration="81000" />
+      <workItem from="1552633516968" duration="18719000" />
+      <workItem from="1552893232182" duration="12197000" />
+      <workItem from="1552995224257" duration="7184000" />
+      <workItem from="1553065123276" duration="5573000" />
+      <workItem from="1553151470437" duration="12944000" />
+      <workItem from="1553171898170" duration="1944000" />
+      <workItem from="1553237706123" duration="5622000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="139250000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup 2.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cod 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/order.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/success.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/style_grilli.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/stylesheet.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category 2.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/search.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/mega_filter.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/category.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/category.php" />
+    <entry file="file://$PROJECT_DIR$/js/lessons5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="90" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lessons4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="831">
+          <caret line="99" column="8" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lessons3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding>
+            <marker date="1552316678244" expanded="true" signature="2223:2373" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lessons6.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="26" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart.php" />
+    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/Hils.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="2418" column="4" selection-start-line="2418" selection-start-column="4" selection-end-line="2418" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lessons7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1589">
+          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1552658125157" expanded="true" signature="3:765" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/home.php" />
+    <entry file="file://$PROJECT_DIR$/js/lessons8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924">
+          <caret line="48" column="2" lean-forward="true" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/test.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/aqua.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/chema.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/aua.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="4954" column="95" selection-start-line="4954" selection-start-column="22" selection-end-line="4954" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.php" />
+    <entry file="file://$USER_HOME$/Desktop/work.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="24" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lessons9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="159" column="42" lean-forward="true" selection-start-line="159" selection-start-column="42" selection-end-line="159" selection-end-column="42" />
+          <folding>
+            <element signature="n#mySportCar#0" />
+            <marker date="1552999272280" expanded="true" signature="773:1792" ph="..." />
+            <marker date="1552999272280" expanded="true" signature="3725:3886" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_redirect301_3.ocmod.zip/install.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_redirect301_3.ocmod.zip/install.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_301_redirector.zip/redirector_2.x.ocmod.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
+    <entry file="file://$PROJECT_DIR$/../../Operation/Импорт/xml_sample_priceua.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="87" column="14" lean-forward="true" selection-start-line="87" selection-start-column="14" selection-end-line="87" selection-end-column="14" />
+          <folding>
+            <element signature="n#catalog#0;n#price#0;n#!!top" />
+            <element signature="e#14420#14425#0" expanded="true" />
+            <element signature="e#18640#18646#0" expanded="true" />
+            <element signature="e#19420#19426#0" expanded="true" />
+            <element signature="e#30785#30791#0" expanded="true" />
+            <element signature="e#35268#35274#0" expanded="true" />
+            <element signature="e#36154#36160#0" expanded="true" />
+            <element signature="e#40940#40945#0" expanded="true" />
+            <element signature="e#45429#45434#0" expanded="true" />
+            <element signature="e#49762#49767#0" expanded="true" />
+            <element signature="e#53520#53526#0" expanded="true" />
+            <element signature="e#53539#53545#0" expanded="true" />
+            <element signature="e#56059#56064#0" expanded="true" />
+            <element signature="e#58595#58601#0" expanded="true" />
+            <element signature="e#67490#67496#0" expanded="true" />
+            <element signature="e#75902#75908#0" expanded="true" />
+            <element signature="e#86455#86460#0" expanded="true" />
+            <element signature="e#90937#90943#0" expanded="true" />
+            <element signature="e#95691#95697#0" expanded="true" />
+            <element signature="e#98611#98617#0" expanded="true" />
+            <element signature="e#99771#99777#0" expanded="true" />
+            <element signature="e#100741#100747#0" expanded="true" />
+            <element signature="e#102670#102676#0" expanded="true" />
+            <element signature="e#104294#104300#0" expanded="true" />
+            <element signature="e#109146#109152#0" expanded="true" />
+            <element signature="e#114195#114201#0" expanded="true" />
+            <element signature="e#114359#114365#0" expanded="true" />
+            <element signature="e#114376#114382#0" expanded="true" />
+            <element signature="e#115322#115328#0" expanded="true" />
+            <element signature="e#115519#115525#0" expanded="true" />
+            <element signature="e#115536#115542#0" expanded="true" />
+            <element signature="e#118661#118667#0" expanded="true" />
+            <element signature="e#118815#118821#0" expanded="true" />
+            <element signature="e#118833#118839#0" expanded="true" />
+            <element signature="e#119270#119276#0" expanded="true" />
+            <element signature="e#119291#119297#0" expanded="true" />
+            <element signature="e#122740#122746#0" expanded="true" />
+            <element signature="e#125232#125238#0" expanded="true" />
+            <element signature="e#126313#126319#0" expanded="true" />
+            <element signature="e#132063#132069#0" expanded="true" />
+            <element signature="e#136096#136102#0" expanded="true" />
+            <element signature="e#139445#139451#0" expanded="true" />
+            <element signature="e#143482#143488#0" expanded="true" />
+            <element signature="e#146377#146383#0" expanded="true" />
+            <element signature="e#146567#146573#0" expanded="true" />
+            <element signature="e#146600#146606#0" expanded="true" />
+            <element signature="e#165882#165888#0" expanded="true" />
+            <element signature="e#166820#166826#0" expanded="true" />
+            <element signature="e#184464#184470#0" expanded="true" />
+            <element signature="e#188826#188832#0" expanded="true" />
+            <element signature="e#188841#188847#0" expanded="true" />
+            <element signature="e#189539#189545#0" expanded="true" />
+            <element signature="e#189554#189560#0" expanded="true" />
+            <element signature="e#207671#207677#0" expanded="true" />
+            <element signature="e#231820#231826#0" expanded="true" />
+            <element signature="e#233309#233315#0" expanded="true" />
+            <element signature="e#251651#251657#0" expanded="true" />
+            <element signature="e#252229#252235#0" expanded="true" />
+            <element signature="e#253015#253021#0" expanded="true" />
+            <element signature="e#254445#254451#0" expanded="true" />
+            <element signature="e#255145#255151#0" expanded="true" />
+            <element signature="e#255162#255167#0" expanded="true" />
+            <element signature="e#256101#256107#0" expanded="true" />
+            <element signature="e#256922#256928#0" expanded="true" />
+            <element signature="e#257897#257903#0" expanded="true" />
+            <element signature="e#258477#258483#0" expanded="true" />
+            <element signature="e#259486#259492#0" expanded="true" />
+            <element signature="e#260770#260776#0" expanded="true" />
+            <element signature="e#260787#260792#0" expanded="true" />
+            <element signature="e#261520#261526#0" expanded="true" />
+            <element signature="e#262066#262072#0" expanded="true" />
+            <element signature="e#262958#262964#0" expanded="true" />
+            <element signature="e#266843#266849#0" expanded="true" />
+            <element signature="e#281951#281957#0" expanded="true" />
+            <element signature="e#281969#281975#0" expanded="true" />
+            <element signature="e#283414#283420#0" expanded="true" />
+            <element signature="e#283432#283438#0" expanded="true" />
+            <element signature="e#284314#284320#0" expanded="true" />
+            <element signature="e#284332#284338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Operation/Импорт/index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lessons10.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="75" column="11" lean-forward="true" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.tpl" />
+    <entry file="file://$PROJECT_DIR$/lessons1-10.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="39" />
+          <folding>
+            <marker date="1553160600479" expanded="true" signature="960:1817" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/game.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="34" column="8" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="40" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <marker date="1553173239052" expanded="true" signature="3:572" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/lessons11.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
