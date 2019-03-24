@@ -97,10 +97,10 @@ const colors = {
 
 const lineSize = 6;
 const myGame = new Game(lineSize, colors,blockStyles);
-const myGames = new Game(lineSize, colors,blockStyles);
+// const myGames = new Game(lineSize, colors,blockStyles);
 
 console.log(myGame.counter);
-console.log(myGames.counter);
+// console.log(myGames.counter);
 
 
 
