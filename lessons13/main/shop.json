@@ -1,0 +1,54 @@
+{
+  "shop": {
+    "fruitAndVegetable": {
+      "shopWindow1": {
+        "apple": {
+          "golden": {
+            "stockWeight": 20,
+            "costPerKg": 25
+          },
+          "semerenko": {
+            "stockWeight": 10,
+            "costPerKg": 15
+          }
+        },
+        "orange": {
+          "grade1": {
+            "stockWeight": 25,
+            "costPerKg": 40
+          },
+          "grade2": {
+            "stockWeight": 30,
+            "costPerKg": 55
+          }
+        }
+      },
+      "shopWindow2": {
+        "mango": {
+          "big": {
+            "quantityInStock": 20,
+            "costPerUnit": 50
+          },
+          "middle": {
+            "quantityInStock": 25,
+            "costPerUnit": 40
+          }
+        }
+      }
+    },
+    "meatAndFish": {
+      "shopWindow1": {
+        "herring": {
+          "fins": {
+            "stockWeight": 30,
+            "costPerKg": 80
+          },
+          "norwegian": {
+            "stockPackages ": 10,
+            "costPerPac": 40
+          }
+        }
+      }
+    }
+  }
+}
