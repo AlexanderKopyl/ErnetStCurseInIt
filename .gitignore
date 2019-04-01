@@ -1,0 +1,11 @@
+#secret file
+secret.*
+
+#log file
+logs/
+
+.idea/
+
+#module
+
+node_modules

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518fe0e1-12ce-44e4-ab70-f737c7557027" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/lessons11.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/lessons11.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons13/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons13/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons13/main/shop.json" beforeDir="false" afterPath="$PROJECT_DIR$/lessons13/main/shop.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons14/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons14/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,48 +13,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/lessons13/main/shop.json">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="154">
+                    <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/game.js">
+        <entry file="file://$PROJECT_DIR$/lessons14/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="40" selection-end-column="28" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state relative-caret-position="440">
+              <caret line="20" column="47" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/lessons11.js">
+        <entry file="file://$PROJECT_DIR$/lessons13/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2163">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
+            <state relative-caret-position="419">
+              <caret line="66" column="75" selection-start-line="66" selection-start-column="75" selection-end-line="66" selection-end-column="75" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons12/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
-            </state>
-          </provider>
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lessons12/log.txt">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons12/husband.js">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="227">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="286">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -70,36 +97,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pickup_order_status_id</find>
-      <find>post</find>
-      <find>method</find>
-      <find>getOrder</find>
-      <find>laz</find>
-      <find>$li</find>
-      <find>noindex</find>
-      <find>pagin</find>
-      <find>768</find>
-      <find>createElements</find>
-      <find>flex-class-row</find>
-      <find>list</find>
-      <find>script&gt;</find>
-      <find>prod</find>
-      <find>&lt;lin</find>
-      <find>localStorage</find>
-      <find>first-image</find>
-      <find>O</find>
-      <find>textContent</find>
-      <find>positions</find>
-      <find>ВЕТЕРИНАРА</find>
-      <find>Адаптер для EHEIM Professionel 1_eXperience 150_250 (2222-2324_2422_2424)</find>
-      <find>products</find>
-      <find>flex-</find>
-      <find>ins</find>
-      <find>12</find>
-      <find>warranty</find>
+      <find>checkAuthKey</find>
+      <find>modeQueryOrders</find>
+      <find>get</find>
+      <find>modeSaleInit</find>
+      <find>modeSale</find>
+      <find>history</find>
+      <find>mode</find>
+      <find>function mode</find>
+      <find>utf</find>
+      <find>api</find>
+      <find>setT</find>
+      <find>$product</find>
+      <find>ean</find>
+      <find>stock</find>
+      <find>addOrderHistory</find>
       <find>product</find>
-      <find>inf</find>
-      <find>tab-desc</find>
+      <find>SELECT DISTINCT</find>
+      <find>#logo</find>
+      <find>logo</find>
+      <find>320</find>
+      <find>fa fa-phone</find>
+      <find>статус</find>
+      <find>&lt;/heade</find>
+      <find>heade</find>
+      <find>header</find>
+      <find>head</find>
+      <find>vi</find>
+      <find>vide</find>
+      <find>&lt;head</find>
+      <find>------</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -108,56 +135,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/order 2.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/odmproyml_update_yml_link.php" />
-        <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/../../Operation/unishop_template_v2.3.2.0/upload/catalog/view/theme/unishop/template/product/product.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/config 2.php" />
-        <option value="$PROJECT_DIR$/js/lessons3.js" />
-        <option value="$PROJECT_DIR$/../../Module/Оплата при самовывозе(Метод оплаты)/catalog/controller/extension/payment/pickup.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup 2.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/pickup.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/receipt.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/cod 2.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/success.php" />
-        <option value="$PROJECT_DIR$/js/lessons4.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/stylesheet.css" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/category 2.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/search.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/category.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/mega_filter.js" />
-        <option value="$PROJECT_DIR$/js/lessons5.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
-        <option value="$PROJECT_DIR$/js/lessons6.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart.php" />
-        <option value="$PROJECT_DIR$/js/lessons7.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/home.php" />
-        <option value="$PROJECT_DIR$/js/lessons8.js" />
-        <option value="$USER_HOME$/Desktop/work.xml" />
-        <option value="$USER_HOME$/Desktop/aua.xml" />
-        <option value="$PROJECT_DIR$/js/lessons9.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl" />
-        <option value="$PROJECT_DIR$/../../Operation/Импорт/index.xml" />
-        <option value="$PROJECT_DIR$/../../Operation/Импорт/xml_sample_priceua.xml" />
-        <option value="$PROJECT_DIR$/js/lessons10.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.tpl" />
         <option value="$PROJECT_DIR$/js/game.js" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/js/lessons11.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl" />
-        <option value="$USER_HOME$/Desktop/Заметки грил.html" />
+        <option value="$PROJECT_DIR$/lessons12/index.html" />
+        <option value="$PROJECT_DIR$/lessons12/quide.txt" />
+        <option value="$PROJECT_DIR$/lessons12/modules/sun.js" />
+        <option value="$PROJECT_DIR$/lessons12/modules/test.js" />
+        <option value="$PROJECT_DIR$/lessons12/modules/moon.js" />
+        <option value="$PROJECT_DIR$/lessons12/modules/suni.js" />
+        <option value="$PROJECT_DIR$/lessons12/modules/do.js" />
+        <option value="$PROJECT_DIR$/lessons12/lessons12.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bestsellerpercategory.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bestseller.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/latest.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/popular.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bestsellerpercategory.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bestseller.php" />
+        <option value="$PROJECT_DIR$/lessons13/secret.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/exchange1c 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.twig" />
+        <option value="$PROJECT_DIR$/../../Module/index.xml" />
+        <option value="$PROJECT_DIR$/lessons13/student.json" />
+        <option value="$PROJECT_DIR$/lessons13/students.json" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/simplecheckout_cart.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/config 2.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/config.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.twig" />
+        <option value="$PROJECT_DIR$/../../new.Zoocomplex/oc_product.sql" />
+        <option value="$USER_HOME$/Desktop/auaPic.xml" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/../../Garbedj/Импорт на зоо/Hotline/Hotline1.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
+        <option value="$USER_HOME$/Desktop/sql.sql" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.php" />
+        <option value="$PROJECT_DIR$/../../Garbedj/logoInHeader.svg" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style_grilli.css" />
-        <option value="$PROJECT_DIR$/lessons12/husband.js" />
-        <option value="$PROJECT_DIR$/lessons12/index.js" />
-        <option value="$PROJECT_DIR$/lessons12/log.txt" />
+        <option value="$PROJECT_DIR$/../../Operation/Импорт/index29,03.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 3.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 4.tpl" />
+        <option value="$PROJECT_DIR$/lessons13/main/shop.json" />
+        <option value="$PROJECT_DIR$/lessons14/index.js" />
+        <option value="$PROJECT_DIR$/lessons13/main.js" />
       </list>
     </option>
   </component>
@@ -165,37 +193,50 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="x" value="-1658" />
+    <option name="y" value="212" />
+    <option name="width" value="974" />
+    <option name="height" value="527" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="ErnetStCurseInIt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ErnetStCurseInIt" type="462c0819:PsiDirectoryNode" />
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="ErnetStCurseInIt" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ErnetStCurseInIt" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons12" type="462c0819:PsiDirectoryNode" />
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons13" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons14" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -236,23 +277,29 @@
       <workItem from="1553065123276" duration="5573000" />
       <workItem from="1553151470437" duration="12944000" />
       <workItem from="1553171898170" duration="1944000" />
-      <workItem from="1553237706123" duration="5622000" />
-      <workItem from="1553429344070" duration="7407000" />
+      <workItem from="1553237706123" duration="20063000" />
+      <workItem from="1553496812780" duration="2062000" />
+      <workItem from="1553500148767" duration="14086000" />
+      <workItem from="1553582641610" duration="12699000" />
+      <workItem from="1553670670784" duration="12825000" />
+      <workItem from="1553761434985" duration="19194000" />
+      <workItem from="1553843626541" duration="20770000" />
+      <workItem from="1554096958503" duration="325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146657000" />
+    <option name="totallyTimeSpent" value="235652000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -261,12 +308,12 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25785482" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
     </layout>
     <layout-to-restore>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25746268" />
@@ -294,179 +341,171 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/order.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/success.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart 2.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/stylesheet.css" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category 2.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/search.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/mega_filter.js" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/category.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/category.php" />
-    <entry file="file://$PROJECT_DIR$/js/lessons5.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/popular.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/exchange1c.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/exchange1c 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/exchange1c 3.php" />
+    <entry file="file://$PROJECT_DIR$/lessons13/secret.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="89" lean-forward="true" selection-start-line="89" selection-end-line="90" selection-end-column="16" />
+        <state relative-caret-position="88">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lessons4.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess1" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/security.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/yandex_market.php" />
+    <entry file="file://$PROJECT_DIR$/../../Module/index.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="831">
-          <caret line="99" column="8" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lessons3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
-            <marker date="1552316678244" expanded="true" signature="2223:2373" ph="..." />
+            <element signature="e#1035304#1035310#0" expanded="true" />
+            <element signature="e#1035321#1035327#0" expanded="true" />
+            <element signature="e#1140024#1140029#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lessons6.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/config.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/config 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/simplecheckout_cart.tpl" />
+    <entry file="file://$USER_HOME$/Desktop/aua.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-66" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/auaPic.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/oc_product.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="80" column="25" selection-start-line="80" selection-start-column="25" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/hli.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="6" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons13/students.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/order.php" />
+    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/Hotline/Hotline1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="70" lean-forward="true" selection-start-line="14" selection-start-column="70" selection-end-line="14" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/Hotline/workHotline.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="75" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.php" />
+    <entry file="file://$PROJECT_DIR$/../../Garbedj/logoInHeader.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/export_import.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/logoInHeader.svg" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="633">
+          <caret line="7024" column="8" selection-start-line="7024" selection-start-column="8" selection-end-line="13921" selection-end-column="6" />
+          <folding>
+            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" />
+            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="7067" column="138" selection-start-line="7067" selection-start-column="138" selection-end-line="7067" selection-end-column="138" />
+          <folding>
+            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/style_grilli.css" />
+    <entry file="file://$PROJECT_DIR$/../../zoocomplex.com.ua25.03.2019/smsc_api_fastorder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2121">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="157" column="39" selection-start-line="157" selection-start-column="39" selection-end-line="157" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Operation/Импорт/index.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="26" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+          <caret selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart.php" />
-    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/Hils.xml" />
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+    <entry file="file://$PROJECT_DIR$/../../Operation/Импорт/index29,03.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1025">
-          <caret line="2418" column="4" selection-start-line="2418" selection-start-column="4" selection-end-line="2418" selection-end-column="4" />
+        <state>
+          <caret selection-end-line="31185" selection-end-column="382" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/lessons7.js">
+    <entry file="file://$USER_HOME$/Downloads/Telegram Desktop/sp-push/sp-push-manifest.json" />
+    <entry file="file://$USER_HOME$/Desktop/sql.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1589">
-          <caret line="41" column="32" lean-forward="true" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1552658125157" expanded="true" signature="3:765" ph="..." />
-          </folding>
+        <state relative-caret-position="572">
+          <caret line="26" column="105" selection-start-line="26" selection-start-column="105" selection-end-line="26" selection-end-column="105" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/home.php" />
-    <entry file="file://$PROJECT_DIR$/js/lessons8.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-924">
-          <caret line="48" column="2" lean-forward="true" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/test.sql" />
-    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/aqua.xml" />
-    <entry file="file://$USER_HOME$/Desktop/chema.xml" />
-    <entry file="file://$USER_HOME$/Desktop/aua.xml" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.php" />
-    <entry file="file://$USER_HOME$/Desktop/work.xml" />
-    <entry file="file://$PROJECT_DIR$/js/lessons9.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="159" column="42" lean-forward="true" selection-start-line="159" selection-start-column="42" selection-end-line="159" selection-end-column="42" />
-          <folding>
-            <element signature="n#mySportCar#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_redirect301_3.ocmod.zip/install.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_redirect301_3.ocmod.zip/install.xml" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_301_redirector.zip/redirector_2.x.ocmod.xml" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
-    <entry file="file://$PROJECT_DIR$/../../Operation/Импорт/xml_sample_priceua.xml" />
-    <entry file="file://$PROJECT_DIR$/../../Operation/Импорт/index.xml" />
-    <entry file="file://$PROJECT_DIR$/js/lessons10.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="75" column="11" lean-forward="true" selection-start-line="75" selection-start-column="11" selection-end-line="75" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-3/header.tpl" />
-    <entry file="file://$PROJECT_DIR$/lessons1-10.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="84" selection-start-line="84" selection-end-line="84" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/game.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="40" selection-end-column="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-690">
-          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/lessons11.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2163">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Заметки грил.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="932" column="6" lean-forward="true" selection-start-line="872" selection-end-line="932" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/style_grilli.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="366">
-          <caret line="341" column="21" lean-forward="true" selection-start-line="341" selection-start-column="21" selection-end-line="341" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons12/husband.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="676">
+          <caret line="284" column="115" selection-start-line="284" selection-start-column="115" selection-end-line="284" selection-end-column="115" />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="382" column="44" selection-start-line="382" selection-start-column="44" selection-end-line="382" selection-end-column="44" />
+        <state relative-caret-position="281">
+          <caret line="380" column="130" selection-start-line="380" selection-start-column="130" selection-end-line="380" selection-end-column="130" />
           <folding>
             <element signature="e#130#137#1" expanded="true" />
             <element signature="e#80#87#1" expanded="true" />
@@ -476,14 +515,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons12/index.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 3.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="57" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        <state relative-caret-position="171">
+          <caret line="148" column="115" selection-start-line="148" selection-start-column="115" selection-end-line="148" selection-end-column="115" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons12/log.txt">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 4.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3241" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons14/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="47" selection-start-line="20" selection-start-column="42" selection-end-line="20" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons13/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="66" column="75" selection-start-line="66" selection-start-column="75" selection-end-line="66" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons13/main/shop.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

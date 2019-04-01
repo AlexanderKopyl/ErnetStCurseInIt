@@ -47,20 +47,29 @@ http.createServer((req,res)=>{
         if(req.url === '/shop'){
             for (let key in shop){
                 let Obj = key + "\n";
-                res.write("--"+Obj);
+                res.write("1--"+Obj);
                 for(let i in shop[key]){
                     let ObjKey = i + "\n";
-                    res.write("----"+ObjKey);
+                    res.write("2----"+ObjKey);
                     for(let j in shop[key][i]){
                         let KeyinObj = j + "\n";
-                        res.write("------"+KeyinObj);
+                        res.write("3------"+KeyinObj);
                        for(let z in shop[key][i][j]){
                            let keyinStock = z + "\n";
-                           res.write("------" + keyinStock);
-                           for (let x in shop[key][i][j][z]) {
-                               let xkey = x + "=";
-                               res.write("--------" + xkey + shop[key][i][j][z][x] + "\n");
-                           }
+
+                           res.write("4------" + keyinStock);
+                           // shop[key][i][j][z].forEach(function (elem) {
+
+                                           console.log(shop[key][i][j][z])
+
+                               // });
+                           // for (let x in shop[key][i][j][z]) {
+                           //     // shop[key][i].forEach(function (elem) {
+                           //     //     console.log(elem);
+                           //     // });
+                           //     let xkey = x + "=";
+                           //     res.write("5--------" + xkey + shop[key][i][j][z][x] + "\n");
+                           // }
 
                        }
                     }

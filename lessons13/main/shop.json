@@ -2,53 +2,70 @@
   "shop": {
     "fruitAndVegetable": {
       "shopWindow1": {
-        "apple": {
-          "golden": {
-            "stockWeight": 20,
-            "costPerKg": 25
+        "apple": [
+          {
+            "name": "golden",
+            "units": "kg",
+            "quantity": 20,
+            "price": 25
           },
-          "semerenko": {
-            "stockWeight": 10,
-            "costPerKg": 15
+          {
+            "name": "semerenko",
+            "units": "kg",
+            "quantity": 10,
+            "price": 15
           }
-        },
-        "orange": {
-          "grade1": {
-            "stockWeight": 25,
-            "costPerKg": 40
-          },
-          "grade2": {
-            "stockWeight": 30,
-            "costPerKg": 55
-          }
-        }
+        ]
       },
-      "shopWindow2": {
-        "mango": {
-          "big": {
-            "quantityInStock": 20,
-            "costPerUnit": 50
-          },
-          "middle": {
-            "quantityInStock": 25,
-            "costPerUnit": 40
-          }
+      "orange": [
+        {
+          "name": "grade1",
+          "units": "kg",
+          "quantity": 25,
+          "price": 40
+        },
+        {
+          "name": "grade2",
+          "units": "kg",
+          "quantity": 30,
+          "price": 55
         }
-      }
-    },
-    "meatAndFish": {
-      "shopWindow1": {
-        "herring": {
-          "fins": {
-            "stockWeight": 30,
-            "costPerKg": 80
+      ],
+      "shopWindow2": {
+        "mango": [
+          {
+            "name": "bigMango",
+            "units": "ps",
+            "quantity": 20,
+            "price": 50
           },
-          "norwegian": {
-            "stockPackages ": 10,
-            "costPerPac": 40
+          {
+            "name": "middleMango",
+            "units": "ps",
+            "quantity": 25,
+            "price": 40
           }
+        ]
+      },
+      "meatAndFish": {
+        "shopWindow1": {
+          "herring": [
+            {
+              "name": "fins",
+              "units": "kg",
+              "quantity": 30,
+              "price": 80
+            },
+            {
+              "name": "norwegian",
+              "units": "pc",
+              "quantity": 10,
+              "price": 40
+            }
+          ]
         }
       }
     }
   }
 }
+
