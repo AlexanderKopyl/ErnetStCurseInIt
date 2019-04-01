@@ -10,7 +10,7 @@ const pathName = '127.0.0.1';
 //     service: 'gmail',
 //     auth: {
 //         user: 'alexsander11115@gmail.com',
-//         pass: 'uwnndxufudqnxuui'
+//         pass: '****************'
 //     }
 // });
 //
