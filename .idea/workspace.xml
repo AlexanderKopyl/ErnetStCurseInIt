@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="518fe0e1-12ce-44e4-ab70-f737c7557027" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons13/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons13/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessons13/main/shop.json" beforeDir="false" afterPath="$PROJECT_DIR$/lessons13/main/shop.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons14/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons14/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,27 +25,21 @@
     <expand />
     <select />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/lessons13/main/shop.json">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="154">
-                    <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lessons13/main/shop.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+              <folding>
+                <element signature="e#767#1000#0" />
+                <element signature="e#1154#1433#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessons14/index.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -60,27 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessons13/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="419">
-              <caret line="66" column="75" selection-start-line="66" selection-start-column="75" selection-end-line="66" selection-end-column="75" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="264">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -97,8 +70,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>checkAuthKey</find>
-      <find>modeQueryOrders</find>
       <find>get</find>
       <find>modeSaleInit</find>
       <find>modeSale</find>
@@ -127,6 +98,8 @@
       <find>vide</find>
       <find>&lt;head</find>
       <find>------</find>
+      <find>day</find>
+      <find>/day</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,9 +127,7 @@
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bestsellerpercategory.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/bestseller.php" />
         <option value="$PROJECT_DIR$/lessons13/secret.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/exchange1c 2.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.twig" />
         <option value="$PROJECT_DIR$/../../Module/index.xml" />
         <option value="$PROJECT_DIR$/lessons13/student.json" />
@@ -183,9 +154,11 @@
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 3.tpl" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 4.tpl" />
-        <option value="$PROJECT_DIR$/lessons13/main/shop.json" />
         <option value="$PROJECT_DIR$/lessons14/index.js" />
         <option value="$PROJECT_DIR$/lessons13/main.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php" />
+        <option value="$PROJECT_DIR$/lessons13/main/shop.json" />
       </list>
     </option>
   </component>
@@ -285,17 +258,19 @@
       <workItem from="1553761434985" duration="19194000" />
       <workItem from="1553843626541" duration="20770000" />
       <workItem from="1554096958503" duration="325000" />
+      <workItem from="1554097400368" duration="3247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235652000" />
+    <option name="totallyTimeSpent" value="238899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20469083" />
+      <window_info id="npm" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20682302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -308,7 +283,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25785482" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25785482" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -341,7 +316,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/popular.tpl" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/exchange1c.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/exchange1c 2.php" />
@@ -436,28 +410,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/export_import.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/logoInHeader.svg" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="7024" column="8" selection-start-line="7024" selection-start-column="8" selection-end-line="13921" selection-end-column="6" />
-          <folding>
-            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" />
-            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="7067" column="138" selection-start-line="7067" selection-start-column="138" selection-end-line="7067" selection-end-column="138" />
-          <folding>
-            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#image#0;n#svg#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/style_grilli.css" />
     <entry file="file://$PROJECT_DIR$/../../zoocomplex.com.ua25.03.2019/smsc_api_fastorder.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -466,13 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="157" column="39" selection-start-line="157" selection-start-column="39" selection-end-line="157" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
     <entry file="file://$PROJECT_DIR$/../../Operation/Импорт/index.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -495,49 +443,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="284" column="115" selection-start-line="284" selection-start-column="115" selection-end-line="284" selection-end-column="115" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="380" column="130" selection-start-line="380" selection-start-column="130" selection-end-line="380" selection-end-column="130" />
-          <folding>
-            <element signature="e#130#137#1" expanded="true" />
-            <element signature="e#80#87#1" expanded="true" />
-            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
-            <element signature="e#130#137#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 3.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="148" column="115" selection-start-line="148" selection-start-column="115" selection-end-line="148" selection-end-column="115" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 4.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="145" lean-forward="true" selection-start-line="145" selection-end-line="145" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 3.tpl" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 4.tpl" />
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3241" />
@@ -557,25 +467,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook 2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-866" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1029">
+          <caret line="73" column="41" lean-forward="true" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="63" selection-start-line="63" selection-end-line="72" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lessons13/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
-          <caret line="66" column="75" selection-start-line="66" selection-start-column="75" selection-end-line="66" selection-end-column="75" />
+        <state relative-caret-position="264">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lessons13/main/shop.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="34" column="18" selection-start-line="34" selection-start-column="18" selection-end-line="34" selection-end-column="18" />
+        <state relative-caret-position="765">
+          <caret line="74" column="3" lean-forward="true" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+          <folding>
+            <element signature="e#767#1000#0" />
+            <element signature="e#1154#1433#0" />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

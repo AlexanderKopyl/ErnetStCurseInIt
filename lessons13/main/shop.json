@@ -1,54 +1,60 @@
 {
   "shop": {
-    "fruitAndVegetable": {
-      "shopWindow1": {
-        "apple": [
-          {
-            "name": "golden",
-            "units": "kg",
-            "quantity": 20,
-            "price": 25
-          },
-          {
-            "name": "semerenko",
-            "units": "kg",
-            "quantity": 10,
-            "price": 15
-          }
-        ]
-      },
-      "orange": [
+    "fruitAndVegetable": [
+      [
         {
-          "name": "grade1",
-          "units": "kg",
-          "quantity": 25,
-          "price": 40
-        },
-        {
-          "name": "grade2",
-          "units": "kg",
-          "quantity": 30,
-          "price": 55
+          "apple": [
+            {
+              "name": "golden",
+              "units": "kg",
+              "quantity": 20,
+              "price": 25
+            },
+            {
+              "name": "semerenko",
+              "units": "kg",
+              "quantity": 10,
+              "price": 15
+            }
+          ],
+          "orange": [
+            {
+              "name": "grade1",
+              "units": "kg",
+              "quantity": 25,
+              "price": 40
+            },
+            {
+              "name": "grade2",
+              "units": "kg",
+              "quantity": 30,
+              "price": 55
+            }
+          ]
         }
       ],
-      "shopWindow2": {
-        "mango": [
-          {
-            "name": "bigMango",
-            "units": "ps",
-            "quantity": 20,
-            "price": 50
-          },
-          {
-            "name": "middleMango",
-            "units": "ps",
-            "quantity": 25,
-            "price": 40
-          }
-        ]
-      },
-      "meatAndFish": {
-        "shopWindow1": {
+      [
+        {
+          "mango": [
+            {
+              "name": "bigMango",
+              "units": "ps",
+              "quantity": 20,
+              "price": 50
+            },
+            {
+              "name": "middleMango",
+              "units": "ps",
+              "quantity": 25,
+              "price": 40
+            }
+          ]
+        }
+      ]
+    ],
+    "meatAndFish": [
+      [
+        {
           "herring": [
             {
               "name": "fins",
@@ -64,8 +70,10 @@
             }
           ]
         }
-      }
-    }
+      ]
+    ]
   }
 }
+
+
 
