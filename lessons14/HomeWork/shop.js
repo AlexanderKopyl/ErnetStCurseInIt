@@ -15,28 +15,28 @@
 ------сельдь
 --------финская 30 кг 80грн/кг
 --------норвежская 10упак 40грн/уп */
-
+let lastId = 1;
 const departments = [
   {
-    id:1,
+    id:lastId,
     name: 'fruits and vegs',
     cases: [
       {
-        id: 1,
+        id: lastId++,
         products: [
           {
-            id:1,
+            id:lastId++,
             name: 'яблоки',
             titles: [
               {
-                id:1,
+                id:lastId++,
                 name: 'голден',
                 units: 'kg',
                 quantity: 20,
                 price: 25
               },
               {
-                id:2,
+                id:lastId++,
                 units: 'kg',
                 quantity: 10,
                 name: 'семеренко',
@@ -45,18 +45,18 @@ const departments = [
             ]
           },
           {
-            id:2,
+            id:lastId++,
             name: 'апельсины',
             titles: [
               {
-                id:1,
+                id:lastId++,
                 name: 'сорт1',
                 units: 'kg',
                 quantity: 25,
                 price: 40
               },
               {
-                id:2,
+                id:lastId++,
                 name: 'сорт2',
                 units: 'kg',
                 quantity: 30,
@@ -67,10 +67,10 @@ const departments = [
         ]
       },
       {
-        id: 2,
+        id: lastId++,
         products: [
           {
-            id:1,
+            id:lastId++,
             name: 'манго',
             titles: [
               {
@@ -81,7 +81,7 @@ const departments = [
                 price: 50
               },
               {
-                id:2,
+                id:lastId++,
                 name: 'средний',
                 units: 'unit',
                 quantity: 25,
@@ -94,25 +94,25 @@ const departments = [
     ]
   },
   {
-    id:2,
+    id:lastId++,
     name: 'meat and fish',
     cases: [
       {
-        id: 1,
+        id: lastId++,
         products: [
           {
-            id:1,
+            id:lastId++,
             name: 'сельдь',
             titles: [
               {
-                id:1,
+                id:lastId++,
                 name: 'финская',
                 units: 'kg',
                 quantity: 30,
                 price: 80
               },
               {
-                id:2,
+                id:lastId++,
                 name: 'норвежская',
                 units: 'pack',
                 quantity: 10,
@@ -126,4 +126,5 @@ const departments = [
   }
 ];
 exports.dep = departments;
+exports.lastId = lastId;
 

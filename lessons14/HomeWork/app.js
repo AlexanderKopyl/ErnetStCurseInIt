@@ -1,6 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 const shop = require('./shop').dep;
+var last = require('./shop').lastId;
 
 
 
@@ -12,7 +13,7 @@ var app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
-var lastId = 0;
+
 
 app.get("/api/v1/products",function (req,res) {
     res.send(shop)
@@ -47,7 +48,7 @@ app.post("/api/v1/products/window/add/:id",function (req,res) {
     console.clear();
 
     var newWindow = {
-        id: '',
+        id: last++,
         products: [
             {
                 name: req.body.products[0].name,
@@ -61,8 +62,6 @@ app.post("/api/v1/products/window/add/:id",function (req,res) {
         return window.id === +req.params.id;
     });
 
-    newWindow.id = myShopWindow['cases'].length + 1;
-
     myShopWindow['cases'].push(newWindow);
 
 
@@ -72,7 +71,7 @@ app.post("/api/v1/products/department/add",function (req,res) {
     console.clear();
 
     var newDeparment = {
-        id:shop.length + 1,
+        id:last++,
         name: req.body.name,
         cases: [
         ]
@@ -89,7 +88,7 @@ app.post("/api/v1/products/:dp/products/:id/:product",function (req,res) {
 
     var product = {
 
-        id:"" ,
+        id:last++ ,
         name: req.body.name,
         units: req.body.units,
         quantity: req.body.quantity,
@@ -108,9 +107,7 @@ app.post("/api/v1/products/:dp/products/:id/:product",function (req,res) {
         return product.id === +req.params.product;
     });
     if(wndowProduct){
-        product.id = wndowProduct['titles'].length + 1;
         wndowProduct['titles'].push(product);
-
     }
 
     res.send(wndowProduct)
@@ -135,7 +132,7 @@ app.put('/api/v1/products/:dp/products/:id/:product/:sip',function (req,res) {
        return sort.id === +req.params.sip
     });
         if(sortProduct){
-            sortProduct.id = lastId++;
+            sortProduct.id = last++;
             sortProduct.units =  units;
             sortProduct.quantity = quantity;
             sortProduct.name = name;
