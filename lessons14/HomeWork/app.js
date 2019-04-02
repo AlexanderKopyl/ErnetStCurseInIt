@@ -44,19 +44,11 @@ app.post("/api/v1/products/window/add/:id",function (req,res) {
     console.clear();
 
     var newWindow = {
-        id: shop.length + 1,
+        id: '',
         products: [
             {
                 name: req.body.products[0].name,
-                titles: [
-                    {
-                        id:10,
-                        name: req.body.products[0].titles[0].name,
-                        units: req.body.products[0].titles[0].units,
-                        quantity: req.body.products[0].titles[0].quantity,
-                        price: req.body.products[0].titles[0].price,
-                    }
-                ]
+                titles: [ ]
             }
         ]
 
@@ -66,10 +58,25 @@ app.post("/api/v1/products/window/add/:id",function (req,res) {
         return window.id === +req.params.id;
     });
 
+    newWindow.id = myShopWindow['cases'].length + 1;
+
     myShopWindow['cases'].push(newWindow);
 
 
     res.send(myShopWindow);
+});
+app.post("/api/v1/products/department/add",function (req,res) {
+    console.clear();
+
+    var newDeparment = {
+        id:shop.length + 1,
+        name: req.body.name,
+        cases: [
+        ]
+    };
+
+    shop.push(newDeparment);
+    res.send(shop);
 });
 
 app.post("/api/v1/products/:dp/products/:id/:product",function (req,res) {
