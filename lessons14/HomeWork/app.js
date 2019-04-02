@@ -12,6 +12,7 @@ var app = express();
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
+var lastId = 0;
 
 app.get("/api/v1/products",function (req,res) {
     res.send(shop)
@@ -19,7 +20,7 @@ app.get("/api/v1/products",function (req,res) {
 
 app.get("/api/v1/products/:id",function (req,res) {
 
-
+    let arrProduct = [];
     shop.forEach(function (elements) {
 
         elements['cases'].forEach(function (elem) {
@@ -30,13 +31,15 @@ app.get("/api/v1/products/:id",function (req,res) {
                         return product.id === +req.params.id;
 
                     });
-                    res.send(resultProduct);
+                    arrProduct.push(resultProduct);
                 });
 
             }
         )
-    })
+    });
 
+
+    res.send(arrProduct);
 
 });
 
@@ -114,40 +117,63 @@ app.post("/api/v1/products/:dp/products/:id/:product",function (req,res) {
 
 });
 
-// app.put('/api/v1/product/window/:id',function (req,res) {
-//
-//     products.find(function (product) {
-//         if(product.id === +req.params.id){
-//             var {name,units,quantity,price} = req.body;
-//
-//             product.name = name;
-//             product.units = units;
-//             product.quantity = quantity;
-//             product.price = price;
-//
-//             return true;
-//         }
-//     });
-//
-//     res.send(products);
-//
-// });
-//
-//
-// app.delete('/api/v1/products/:id',function (req,res) {
-//
-//     products.find(function (product) {
-//
-//         if(product.id === +req.params.id){
-//             products.splice(products.indexOf(product),1);
-//             return true;
-//         }
-//     });
-//
-//     res.send(products);
-// });
+app.put('/api/v1/products/:dp/products/:id/:product/:sip',function (req,res) {
+
+    var {name,units,quantity,price} = req.body;
+
+    let shopDp =  shop.find(function (window) {
+        return window.id === +req.params.dp;
+    });
+    let window = shopDp['cases'].find(function (products) {
+        return products.id === +req.params.id;
+    });
+    let wndowProduct = window['products'].find(function (product) {
+        return product.id === +req.params.product;
+    });
+
+    let sortProduct = wndowProduct['titles'].find(function (sort) {
+       return sort.id === +req.params.sip
+    });
+        if(sortProduct){
+            sortProduct.id = lastId++;
+            sortProduct.units =  units;
+            sortProduct.quantity = quantity;
+            sortProduct.name = name;
+            sortProduct.price = price;
+        }
+
+
+    res.send(wndowProduct);
+
+
+});
+
+
+app.delete('/api/v1/products/:dp/products/:id/:product/:sip',function (req,res) {
+
+    let shopDp =  shop.find(function (window) {
+        return window.id === +req.params.dp;
+    });
+    let window = shopDp['cases'].find(function (products) {
+        return products.id === +req.params.id;
+    });
+    let wndowProduct = window['products'].find(function (product) {
+        return product.id === +req.params.product;
+    });
+
+    wndowProduct['titles'].find(function (sort) {
+        let idDelete = wndowProduct['titles'].indexOf(sort);
+        if (sort.id === +req.params.sip){
+            wndowProduct['titles'].splice(idDelete,1);
+            console.log(wndowProduct['titles']);
+            return true;
+        }
+    });
+
+    res.send(wndowProduct);
+});
 
 
 app.listen(port,pathName,function () {
     console.log('Start listening');
-})
+});
