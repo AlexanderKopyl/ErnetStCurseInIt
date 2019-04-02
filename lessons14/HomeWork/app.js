@@ -3,6 +3,7 @@ var bodyParser = require('body-parser');
 const shop = require('./shop').dep;
 
 
+
 const port = 3000;
 const pathName = '127.0.0.1';
 
@@ -12,11 +13,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 
 
-
-app.get("/",function (req,res) {
-    res.send(shop)
-});
-
 app.get("/api/v1/products",function (req,res) {
     res.send(shop)
 });
@@ -24,58 +20,127 @@ app.get("/api/v1/products",function (req,res) {
 app.get("/api/v1/products/:id",function (req,res) {
 
 
-    res.send(myProduct);
+    shop.forEach(function (elements) {
+
+        elements['cases'].forEach(function (elem) {
+
+                elem['products'].forEach(function (window) {
+
+                    let resultProduct = window['titles'].find(function (product) {
+                        return product.id === +req.params.id;
+
+                    });
+                    res.send(resultProduct);
+                });
+
+            }
+        )
+    })
+
+
 });
 
-app.post("/api/v1/products",function (req,res) {
+app.post("/api/v1/products/window/add/:id",function (req,res) {
     console.clear();
 
+    var newWindow = {
+        id: shop.length + 1,
+        products: [
+            {
+                name: req.body.products[0].name,
+                titles: [
+                    {
+                        id:10,
+                        name: req.body.products[0].titles[0].name,
+                        units: req.body.products[0].titles[0].units,
+                        quantity: req.body.products[0].titles[0].quantity,
+                        price: req.body.products[0].titles[0].price,
+                    }
+                ]
+            }
+        ]
+
+
+    };
+    let myShopWindow = shop.find(function (window) {
+        return window.id === +req.params.id;
+    });
+
+    myShopWindow['cases'].push(newWindow);
+
+
+    res.send(myShopWindow);
+});
+
+app.post("/api/v1/products/:dp/products/:id/:product",function (req,res) {
+    console.clear();
+
+
+
     var product = {
-        id: Date.now(),
+
+        id:"" ,
         name: req.body.name,
         units: req.body.units,
         quantity: req.body.quantity,
-        price: req.body.price,
+        price: req.body.price
+
+
     };
 
-    products.push(product);
-    res.send(products);
-});
-
-app.put('/api/v1/products/:id',function (req,res) {
-
-    products.find(function (product) {
-        if(product.id === +req.params.id){
-            var {name,units,quantity,price} = req.body;
-
-            product.name = name;
-            product.units = units;
-            product.quantity = quantity;
-            product.price = price;
-
-            return true;
-        }
+    let shopDp =  shop.find(function (window) {
+        return window.id === +req.params.dp;
     });
-
-    res.send(products);
-
-});
-
-
-app.delete('/api/v1/products/:id',function (req,res) {
-
-    products.find(function (product) {
-
-        if(product.id === +req.params.id){
-            products.splice(products.indexOf(product),1);
-            return true;
-        }
+    let window = shopDp['cases'].find(function (products) {
+        return products.id === +req.params.id;
     });
+    let wndowProduct = window['products'].find(function (product) {
+        return product.id === +req.params.product;
+    });
+    if(wndowProduct){
+        product.id = wndowProduct['titles'].length + 1;
+        wndowProduct['titles'].push(product);
 
-    res.send(products);
+    }
+
+    res.send(wndowProduct)
+
 });
+
+// app.put('/api/v1/product/window/:id',function (req,res) {
+//
+//     products.find(function (product) {
+//         if(product.id === +req.params.id){
+//             var {name,units,quantity,price} = req.body;
+//
+//             product.name = name;
+//             product.units = units;
+//             product.quantity = quantity;
+//             product.price = price;
+//
+//             return true;
+//         }
+//     });
+//
+//     res.send(products);
+//
+// });
+//
+//
+// app.delete('/api/v1/products/:id',function (req,res) {
+//
+//     products.find(function (product) {
+//
+//         if(product.id === +req.params.id){
+//             products.splice(products.indexOf(product),1);
+//             return true;
+//         }
+//     });
+//
+//     res.send(products);
+// });
 
 
 app.listen(port,pathName,function () {
     console.log('Start listening');
-});
+})
