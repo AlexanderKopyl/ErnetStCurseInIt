@@ -1,0 +1,6 @@
+extends layout
+block content
+    h3 #{my_product}
+    ol
+        each product in fruits
+            li= product.name

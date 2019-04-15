@@ -1,4 +1,4 @@
-const http = require('http');
+// const http = require('http');
 
 var express = require('express');
 var bodyParser = require('body-parser');
@@ -37,11 +37,16 @@ var products = [
     }
 ];
 
-app.get("/products",function (req,res) {
+app.get("/",function (req,res) {
+    res.send("Hello User")
+});
+
+app.get("/product.pug",function (req,res) {
+    console.log(departments);
     res.send(products)
 });
 
-app.get("/products/:id",function (req,res) {
+app.get("/product.pug/:id",function (req,res) {
     var myProduct = products.find(function (product) {
         return product.id === +req.params.id;
     });
@@ -49,8 +54,9 @@ app.get("/products/:id",function (req,res) {
     res.send(myProduct);
 });
 
-app.post("/products",function (req,res) {
+app.post("/product.pug",function (req,res) {
     console.clear();
+
     var product = {
         id: Date.now(),
         name: req.body.name,
@@ -62,6 +68,40 @@ app.post("/products",function (req,res) {
     products.push(product);
     res.send(products);
 });
+
+app.put('/product.pug/:id',function (req,res) {
+
+    products.find(function (product) {
+        if(product.id === +req.params.id){
+            var {name,units,quantity,price} = req.body;
+
+            product.name = name;
+            product.units = units;
+            product.quantity = quantity;
+            product.price = price;
+
+            return true;
+        }
+    });
+
+    res.send(products);
+
+});
+
+
+app.delete('/product.pug/:id',function (req,res) {
+
+    products.find(function (product) {
+
+        if(product.id === +req.params.id){
+            products.splice(products.indexOf(product),1);
+            return true;
+        }
+    });
+
+    res.send(products);
+});
+
 
 app.listen(port,pathName,function () {
     console.log('Start listening');

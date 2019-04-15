@@ -1,0 +1,5 @@
+extends layout
+block content
+    ol
+        each cur in currency
+            li= cur.ccy + " to " + cur.base_ccy + ": " + "buy "+ cur.buy + " sale " + cur.sale

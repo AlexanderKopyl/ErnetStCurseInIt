@@ -2,7 +2,7 @@
   "name": "ernestcursce",
   "version": "1.0.0",
   "description": "Test pacage ",
-  "main": "lessons13/main.js",
+  "main": "lessons16/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,7 +18,15 @@
   "homepage": "https://github.com/Mausina/ErnetStCurseInIt#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
+    "bootstrap": "^4.3.1",
     "express": "^4.16.4",
-    "nodemailer": "^6.0.0"
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.4.0",
+    "nodemailer": "^6.0.0",
+    "popper.js": "^1.15.0",
+    "pug": "^2.0.3",
+    "request": "^2.88.0",
+    "socket.io": "^2.2.0",
+    "uuid": "^3.3.2"
   }
 }
