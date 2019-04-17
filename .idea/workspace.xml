@@ -2,18 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518fe0e1-12ce-44e4-ab70-f737c7557027" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons14/HomeWork/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons14/HomeWork/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons14/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons14/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons15/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons15/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons15/views/add_product.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons15/views/add_product.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons15/views/currency.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons15/views/currency.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons15/views/layout.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons15/views/layout.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons15/views/producs.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons15/views/producs.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/views/index.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessons16/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons16/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/public/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lessons16/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/views/index.pug" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,23 +36,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessons16/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+            <state relative-caret-position="286">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="22" />
               <folding>
-                <element signature="e#255#406#0" />
+                <marker date="1555494338097" expanded="true" signature="299:521" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lessons16/views/index.pug">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -109,8 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/footer.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/style_grilli.css" />
         <option value="$PROJECT_DIR$/../../Operation/Импорт/index29,03.xml" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
@@ -158,6 +164,8 @@
         <option value="$PROJECT_DIR$/lessons16/index.pug" />
         <option value="$PROJECT_DIR$/lessons16/views/main.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/lessons16/app.js" />
         <option value="$PROJECT_DIR$/lessons16/views/index.pug" />
       </list>
@@ -193,6 +201,58 @@
               <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
               <item name="lessons16" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.css" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap.js" type="620a8d5e:NestingTreeNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -213,6 +273,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Рабочая Папка\Curse\ErnestCurse\lessons16\public" />
       <recent name="C:\Рабочая Папка\Curse\ErnestCurse\lessons16\js" />
       <recent name="C:\Рабочая Папка\Curse\ErnestCurse\lessons16" />
       <recent name="C:\Рабочая Папка\Curse\ErnestCurse\lessons16\views" />
@@ -271,19 +332,20 @@
       <workItem from="1554803967858" duration="105000" />
       <workItem from="1554804091000" duration="826000" />
       <workItem from="1554804933159" duration="10574000" />
-      <workItem from="1555314163597" duration="17288000" />
+      <workItem from="1555314163597" duration="17408000" />
+      <workItem from="1555481518420" duration="6558000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="331410000" />
+    <option name="totallyTimeSpent" value="338088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.13059701" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15458423" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
@@ -300,7 +362,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.25785482" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.25785482" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.25785482" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -321,29 +383,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/Заметка Расширенная аналитика.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-290" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../Garbedj/Импорт на зоо/Дроп Товары/drop.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="38" selection-start-column="38" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/заметкаHtml.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_productmanager.ocmod.zip/install.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/column_left.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/column_left.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_productmanager.ocmod.zip/install.xml" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/ocext_feed_generator_yamarket 3.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/ocext_feed_generator_yamarket 2.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/ocext_feed_generator_yamarket.php" />
@@ -380,9 +419,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.tpl" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_[ocmod.net] avail-ability_oc3x.ocmod.zip/install.xml" />
     <entry file="file://$PROJECT_DIR$/lessons15/views/products.hbs" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/lessons15/views/layouts.pug" />
     <entry file="file://$PROJECT_DIR$/lessons15/views/product.pug" />
     <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/simple_4.9.7_(php56_70)/update/update for 2.0.x-2.2.x/admin/view/template/module/simple.tpl">
@@ -439,19 +475,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="26" column="33" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="26" selection-end-column="33" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.bowerrc">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons16/index.html" />
+    <entry file="file://$PROJECT_DIR$/.bowerrc" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -467,7 +492,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/js/main.js">
+    <entry file="file://$PROJECT_DIR$/lessons16/public/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -495,9 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/views/main.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons16/views/main.js" />
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -505,20 +528,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/views/index.pug">
+    <entry file="file://$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/public/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/app.js">
+    <entry file="file://$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
-          <caret line="18" column="3" lean-forward="true" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Operation/Экспорт/petz_db_2019-04-17_09-54-16_backup.sql">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="-140489" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Node App/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons16/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="22" />
           <folding>
-            <element signature="e#255#406#0" />
+            <marker date="1555494338097" expanded="true" signature="299:521" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="97" column="22" selection-start-line="97" selection-start-column="22" selection-end-line="97" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons16/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
         </state>
       </provider>
     </entry>
