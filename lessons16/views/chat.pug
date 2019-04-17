@@ -1,0 +1,26 @@
+doctype
+html
+    head
+        meta(charset="UTF-8")
+        title Title
+        link(rel="stylesheet" href="css/bootstrap.min.css")
+        link(rel="stylesheet" href="css/main.css")
+    body
+        .container-flude
+            .msg-group.center
+                .card
+                    .card-body
+                        h6.card-subtitle.mb-2.text-muted.text-left yingshaoxo
+                        p.card-text.float-left Hi ~
+                .card
+                    .card-body
+                        h6.card-subtitle.mb-2.text-muted.text-right yingshaoxo
+                        p.card-text.float-right Welcome to here!
+            .input-group
+                textarea#input-box.form-control(rows='1', placeholder='Say something...')
+                span.input-group-btn
+                    button.btn.btn-secondary(type='button') send
+        script(src="/socket.io/socket.io.js")
+        script(src="js/jquery.js")
+        script(src="js/bootstrap.min.js")
+        script(src="js/main.js")

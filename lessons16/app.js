@@ -16,6 +16,10 @@ app.use('/css', express.static('../node_modules/bootstrap/dist/css'));
 app.get('/',function (req,res) {
    res.render('index');
 });
+app.get('/chat',function (req,res) {
+   res.render('chat');
+});
+
 
 let user = 0;
 io.on('connection',function (socket) {
