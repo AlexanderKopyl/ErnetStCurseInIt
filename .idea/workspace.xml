@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518fe0e1-12ce-44e4-ab70-f737c7557027" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lessons16/public/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons16/views/chat.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/js/main.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/views/index.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons16/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons16/public/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/public/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons16/public/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons16/views/chat.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/views/chat.pug" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons16/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons16/views/index.pug" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,11 +34,20 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons16/public/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessons16/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
+            <state relative-caret-position="215">
               <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
               <folding>
                 <marker date="1555495738719" expanded="true" signature="299:505" ph="..." />
@@ -46,32 +56,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons16/views/index.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="32" lean-forward="true" selection-end-line="15" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons16/views/chat.pug">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lessons16/public/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="242">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lessons16/views/index.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -90,26 +88,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>day</find>
-      <find>/day</find>
-      <find>attribute_groups</find>
-      <find>$product</find>
-      <find>attribute</find>
-      <find>att</find>
-      <find>catalog/pr</find>
-      <find>stock</find>
-      <find>product</find>
-      <find>ean</find>
-      <find>***</find>
-      <find>special</find>
-      <find>products</find>
-      <find>url</find>
-      <find>hid</find>
-      <find>akcii</find>
-      <find>order_</find>
-      <find>$params</find>
-      <find>$offer['param']</find>
-      <find>createParam</find>
       <find>param</find>
       <find>attr</find>
       <find>$product_attribute_group_data</find>
@@ -120,6 +98,26 @@
       <find>cron</find>
       <find>Такого заказа не существует</find>
       <find>dire</find>
+      <find>search.twig</find>
+      <find>products</find>
+      <find>category.php</find>
+      <find>$product_info</find>
+      <find>$data['products']</find>
+      <find>$this-&gt;load-&gt;language('latest/latest')</find>
+      <find>button-</find>
+      <find>data-price</find>
+      <find>$this-&gt;model_catalog_product-&gt;editProduct($this-&gt;request-&gt;get['product_id'], $this-&gt;request-&gt;post);</find>
+      <find>fea</find>
+      <find>availform</find>
+      <find>avail</find>
+      <find>extension/module</find>
+      <find>cart_btn_text</find>
+      <find>button-cart</find>
+      <find>product['name']</find>
+      <find>'name'</find>
+      <find>format</find>
+      <find>Отправка службой</find>
+      <find>quote['title']</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -128,14 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 2.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 3.tpl" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header 4.tpl" />
-        <option value="$PROJECT_DIR$/lessons13/main.js" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/test.php" />
-        <option value="$PROJECT_DIR$/lessons13/main/shop.json" />
-        <option value="$PROJECT_DIR$/lessons14/shop.json" />
         <option value="$PROJECT_DIR$/lessons14/shop.js" />
         <option value="$PROJECT_DIR$/lessons14/index.js" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.tpl" />
@@ -146,7 +136,6 @@
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/couponAdd.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/special.tpl" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/stylesheet.css" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/new_style.css" />
         <option value="$PROJECT_DIR$/lessons14/HomeWork/shop.js" />
         <option value="$PROJECT_DIR$/lessons14/HomeWork/app.js" />
         <option value="$USER_HOME$/Desktop/заметкаHtml.html" />
@@ -175,9 +164,18 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/lessons16/views/index.pug" />
         <option value="$PROJECT_DIR$/lessons16/app.js" />
         <option value="$PROJECT_DIR$/lessons16/views/chat.pug" />
+        <option value="$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/install.ocmod.xml" />
+        <option value="$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/upload/catalog/view/avail/stylesheet/avail.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/avail.css" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/avail.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/new_style.css" />
+        <option value="$PROJECT_DIR$/../../new.Zoocomplex/geo_2018_03/geo_ua.sql" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/novaposhta.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/novaposhtacopy.php" />
+        <option value="$PROJECT_DIR$/lessons16/views/index.pug" />
+        <option value="$PROJECT_DIR$/lessons16/public/js/main.js" />
         <option value="$PROJECT_DIR$/lessons16/public/css/main.css" />
       </list>
     </option>
@@ -186,8 +184,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="199" />
-    <option name="y" value="248" />
+    <option name="x" value="289" />
+    <option name="y" value="260" />
     <option name="width" value="974" />
     <option name="height" value="527" />
   </component>
@@ -199,7 +197,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,17 +226,20 @@
               <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
               <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
               <item name="lessons16" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
               <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons16" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -317,12 +317,13 @@
       <workItem from="1554804091000" duration="826000" />
       <workItem from="1554804933159" duration="10574000" />
       <workItem from="1555314163597" duration="17408000" />
-      <workItem from="1555481518420" duration="7921000" />
+      <workItem from="1555481518420" duration="20732000" />
+      <workItem from="1555568157849" duration="1106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="339451000" />
+    <option name="totallyTimeSpent" value="353368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -346,7 +347,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.25785482" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.25785482" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.25785482" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -367,134 +368,6 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/ocext_feed_generator_yamarket.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
-    <entry file="file://$USER_HOME$/Desktop/sql.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="32" column="396" selection-start-line="32" selection-start-column="396" selection-end-line="32" selection-end-column="396" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/module/unishop2_v1.4.1.0/upload/system/unishop2.ocmod.xml" />
-    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/new_zoo.sql" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/order_invoice.tpl" />
-    <entry file="file://$PROJECT_DIR$/lessons14/HomeWork/shop.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2156">
-          <caret line="114" column="27" selection-start-line="114" selection-start-column="27" selection-end-line="114" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons14/HomeWork/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3806">
-          <caret line="173" selection-start-line="173" selection-end-line="175" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess 3" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/config.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/config 2.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess 2" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.tpl" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_[ocmod.net] avail-ability_oc3x.ocmod.zip/install.xml" />
-    <entry file="file://$PROJECT_DIR$/lessons15/views/products.hbs" />
-    <entry file="file://$PROJECT_DIR$/lessons15/views/layouts.pug" />
-    <entry file="file://$PROJECT_DIR$/lessons15/views/product.pug" />
-    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/simple_4.9.7_(php56_70)/update/update for 2.0.x-2.2.x/admin/view/template/module/simple.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons15/views/add_product.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/simple_4.9.7_(php56_70)/update/update for 2.0.x-2.2.x/catalog/controller/module/simpleapi.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/simple_4.9.7_(php56_70)/update/update for 2.0.x-2.2.x/catalog/controller/module/simple.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons15/views/currency.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="94" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="94" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/bank_transfer.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/weebHook.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="114" column="13" lean-forward="true" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
-          <folding>
-            <element signature="e#4670#5624#0#PHP" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/order 2.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/order.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/simplecheckout.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1386" />
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/cart.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/index.html" />
-    <entry file="file://$PROJECT_DIR$/.bowerrc" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package-lock.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="22" column="55" selection-start-line="22" selection-start-column="55" selection-end-line="22" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/public/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons15/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons15/views/producs.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lessons15/views/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -550,9 +423,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
@@ -560,16 +431,140 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/featured.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/latest.php" />
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/upload/catalog/view/avail/javascript/avail.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_[ocmod.net] avail-ability_oc3x.ocmod.zip/install.xml" />
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/upload/catalog/view/theme/default/template/extension/module/avail.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/avail.css" />
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/upload/catalog/view/avail/stylesheet/avail.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/upload/catalog/controller/extension/module/avail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/featured.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/featured_product.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/featured 2.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/compare.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search 2.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/new_style.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_localcopy_3x.ocmod.zip/install.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_calc_novaposhta_3.0_rus.ocmod.zip/install.xml" />
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/install.ocmod.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="88" column="212" selection-start-line="88" selection-start-column="206" selection-end-line="88" selection-end-column="212" />
+          <folding>
+            <element signature="n#file#0;n#modification#0;n#!!top" />
+            <element signature="n#file#1;n#modification#0;n#!!top" />
+            <element signature="n#file#2;n#modification#0;n#!!top" />
+            <element signature="n#file#3;n#modification#0;n#!!top" />
+            <element signature="n#file#4;n#modification#0;n#!!top" />
+            <element signature="n#file#5;n#modification#0;n#!!top" />
+            <element signature="n#file#6;n#modification#0;n#!!top" />
+            <element signature="n#file#8;n#modification#0;n#!!top" />
+            <element signature="n#operation#0;n#file#8;n#modification#0;n#!!top" />
+            <element signature="n#add#0;n#operation#1;n#file#8;n#modification#0;n#!!top" />
+            <element signature="n#file#9;n#modification#0;n#!!top" />
+            <element signature="n#file#10;n#modification#0;n#!!top" />
+            <element signature="n#file#11;n#modification#0;n#!!top" />
+            <element signature="n#file#12;n#modification#0;n#!!top" />
+            <element signature="n#file#13;n#modification#0;n#!!top" />
+            <element signature="n#file#14;n#modification#0;n#!!top" />
+            <element signature="n#file#15;n#modification#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_calc_novaposhta_translate_3.0.ocmod.zip/install.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_fix_newstorecheckout.ocmod.zip/install.xml" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/avail.js" />
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/novaposhta-for-opencart_3/calc_novaposhta_3.0_rus.ocmod/upload/admin/model/localisation/city.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/geo_2018_03/geo_ua.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="805662">
+          <caret line="36621" column="33" lean-forward="true" selection-start-line="36621" selection-start-column="33" selection-end-line="36621" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/novaposhta-for-opencart_3/calc_novaposhta_3.0_rus.ocmod/upload/catalog/model/localisation/city.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/shipping_method.twig" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/novaposhtacopy.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/novaposhta.php" />
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/novaposhta-for-opencart_3/calc_novaposhta_translate_3.0.ocmod/install.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="767" column="15" lean-forward="true" selection-start-line="767" selection-start-column="15" selection-end-line="767" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/novaposhta-for-opencart_3/calc_novaposhta_3.0_rus.ocmod/install.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5571">
+          <caret line="351" selection-start-line="351" selection-end-line="351" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.twig" />
+    <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/beckUp12.04.2019/catalog/view/theme/default/template/checkout/simplecheckout_shipping.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="56" column="53" selection-start-line="56" selection-start-column="39" selection-end-line="56" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons16/views/chat.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lessons16/views/index.pug">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="32" lean-forward="true" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="346">
+          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons16/public/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lessons16/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
+        <state relative-caret-position="215">
           <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
           <folding>
             <marker date="1555495738719" expanded="true" signature="299:505" ph="..." />
@@ -577,20 +572,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons16/views/chat.pug">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
-          <folding>
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lessons16/public/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="242">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
