@@ -6,7 +6,10 @@ Foma Reviews
 #log file
 logs/
 
+#Idea
+.idea/workspace.xml
 .idea/
+
 
 #module
 

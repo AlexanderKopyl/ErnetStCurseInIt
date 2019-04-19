@@ -15,11 +15,11 @@ app.use(bodyParser.urlencoded({ extended: false }));
 
 
 
-app.get("/api/v1/product.pug",function (req,res) {
+app.get("/api/v1/product",function (req,res) {
     res.send(shop)
 });
 
-app.get("/api/v1/product.pug/:id",function (req,res) {
+app.get("/api/v1/product/:id",function (req,res) {
 
     let arrProduct = [];
     shop.forEach(function (elements) {
@@ -44,7 +44,7 @@ app.get("/api/v1/product.pug/:id",function (req,res) {
 
 });
 
-app.post("/api/v1/product.pug/window/add/:id",function (req,res) {
+app.post("/api/v1/product/window/add/:id",function (req,res) {
     console.clear();
 
     var newWindow = {
@@ -67,7 +67,7 @@ app.post("/api/v1/product.pug/window/add/:id",function (req,res) {
 
     res.send(myShopWindow);
 });
-app.post("/api/v1/product.pug/department/add",function (req,res) {
+app.post("/api/v1/product/department/add",function (req,res) {
     console.clear();
 
     var newDeparment = {
@@ -81,7 +81,7 @@ app.post("/api/v1/product.pug/department/add",function (req,res) {
     res.send(shop);
 });
 
-app.post("/api/v1/product.pug/:dp/product.pug/:id/:product",function (req,res) {
+app.post("/api/v1/product/:dp/product.pug/:id/:product",function (req,res) {
     console.clear();
 
 
@@ -114,7 +114,7 @@ app.post("/api/v1/product.pug/:dp/product.pug/:id/:product",function (req,res) {
 
 });
 
-app.put('/api/v1/product.pug/:dp/product.pug/:id/:product/:sip',function (req,res) {
+app.put('/api/v1/product/:dp/product/:id/:product/:sip',function (req,res) {
 
     var {name,units,quantity,price} = req.body;
 
@@ -146,7 +146,7 @@ app.put('/api/v1/product.pug/:dp/product.pug/:id/:product/:sip',function (req,re
 });
 
 
-app.delete('/api/v1/product.pug/:dp/product.pug/:id/:product/:sip',function (req,res) {
+app.delete('/api/v1/product/:dp/product/:id/:product/:sip',function (req,res) {
 
     let shopDp =  shop.find(function (window) {
         return window.id === +req.params.dp;

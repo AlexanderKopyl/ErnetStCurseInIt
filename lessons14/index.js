@@ -41,12 +41,12 @@ app.get("/",function (req,res) {
     res.send("Hello User")
 });
 
-app.get("/product.pug",function (req,res) {
+app.get("/product",function (req,res) {
     console.log(departments);
     res.send(products)
 });
 
-app.get("/product.pug/:id",function (req,res) {
+app.get("/product/:id",function (req,res) {
     var myProduct = products.find(function (product) {
         return product.id === +req.params.id;
     });
@@ -54,7 +54,7 @@ app.get("/product.pug/:id",function (req,res) {
     res.send(myProduct);
 });
 
-app.post("/product.pug",function (req,res) {
+app.post("/product",function (req,res) {
     console.clear();
 
     var product = {
@@ -69,7 +69,7 @@ app.post("/product.pug",function (req,res) {
     res.send(products);
 });
 
-app.put('/product.pug/:id',function (req,res) {
+app.put('/product/:id',function (req,res) {
 
     products.find(function (product) {
         if(product.id === +req.params.id){
@@ -89,7 +89,7 @@ app.put('/product.pug/:id',function (req,res) {
 });
 
 
-app.delete('/product.pug/:id',function (req,res) {
+app.delete('/product/:id',function (req,res) {
 
     products.find(function (product) {
 

@@ -22,11 +22,11 @@
     "express": "^4.16.4",
     "hammerjs": "^2.0.8",
     "jquery": "^3.4.0",
+    "mongodb": "^3.2.3",
     "nodemailer": "^6.0.0",
     "popper.js": "^1.15.0",
     "pug": "^2.0.3",
     "request": "^2.88.0",
-    "socket.io": "^2.2.0",
-    "uuid": "^3.3.2"
+    "socket.io": "^2.2.0"
   }
 }
