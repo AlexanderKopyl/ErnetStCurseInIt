@@ -1,11 +1,14 @@
-const MongoClient = require('mongodb');
-let url = "mongodb://localhost:27017/mydb";
+const MongoClient = require('mongodb').MongoClient;
+const url = "mongodb://localhost:27017/mydb";
 
+MongoClient.connect(url, { "useNewUrlParser": true },function(err, db) {
+    if (err) throw err;
+    console.log("Database created!");
+    var dbo = db.db("mydb");
 
-MongoClient.connect("mongodb://localhost:27017/mean-course" , { useNewUrlParser: true }).then(
-    (res) => {
-        console.log("Connected to Database Successfully.")
-    }
-).catch(() => {
-    console.log("Conntection to database failed.");
+    dbo.createCollection("customers", function(err, res) {
+        if (err) throw err;
+        console.log("Collection created!");
+        db.close();
+    });
 });
