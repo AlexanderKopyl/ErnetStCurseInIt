@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="518fe0e1-12ce-44e4-ab70-f737c7557027" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lessons17/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons17/costumers.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons15/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons15/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/app.js" afterDir="false" />
@@ -10,8 +10,6 @@
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/lessons16/views/index.pug" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Foma Reviews/ErnetStCurseInIt/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons17/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons17/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lessons17/views/index.pug" beforeDir="false" afterPath="$PROJECT_DIR$/lessons17/views/index.pug" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,38 +36,56 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lessons17/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="3" />
+            <state relative-caret-position="374">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons16/app.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lessons17/costumers.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="23" />
+            <state relative-caret-position="330">
+              <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
               <folding>
-                <marker date="1555574854000" expanded="true" signature="299:505" ph="..." />
+                <element signature="e#0#103#0" />
+                <element signature="e#104#210#0" />
+                <element signature="e#211#316#0" />
+                <element signature="e#317#424#0" />
+                <element signature="e#425#532#0" />
+                <element signature="e#533#640#0" />
+                <element signature="e#641#749#0" />
+                <element signature="e#750#857#0" />
+                <element signature="e#858#963#0" />
+                <element signature="e#964#1074#0" />
+                <element signature="e#1075#1180#0" />
+                <element signature="e#1181#1292#0" />
+                <element signature="e#1293#1401#0" />
+                <element signature="e#1402#1509#0" />
+                <element signature="e#1510#1614#0" />
+                <element signature="e#1615#1721#0" />
+                <element signature="e#1722#1827#0" />
+                <element signature="e#1828#1935#0" />
+                <element signature="e#1936#2043#0" />
+                <element signature="e#2044#2151#0" />
+                <element signature="e#2152#2260#0" />
+                <element signature="e#2261#2368#0" />
+                <element signature="e#2369#2474#0" />
+                <element signature="e#2475#2585#0" />
+                <element signature="e#2586#2691#0" />
+                <element signature="e#2692#2803#0" />
+                <element signature="e#2804#2912#0" />
+                <element signature="e#2913#3020#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lessons17/main.js">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="71" column="14" lean-forward="true" selection-start-line="67" selection-start-column="38" selection-end-line="71" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lessons17/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="122" selection-start-line="122" selection-end-line="122" />
+            <state relative-caret-position="594">
+              <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -111,9 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>param</find>
-      <find>attr</find>
-      <find>$product_attribute_group_data</find>
       <find>invoice</find>
       <find>modificat</find>
       <find>adm</find>
@@ -141,6 +154,9 @@
       <find>format</find>
       <find>Отправка службой</find>
       <find>quote['title']</find>
+      <find>translitText</find>
+      <find>p</find>
+      <find>&lt;p&gt;</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,10 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/ocext_feed_generator_yamarket 2.php" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess" />
-        <option value="$USER_HOME$/Desktop/sql.sql" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/order_invoice.tpl" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/.htaccess 2" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/config.php" />
         <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/config 2.php" />
@@ -191,7 +203,6 @@
         <option value="$PROJECT_DIR$/lessons17/views/layout.pug" />
         <option value="$PROJECT_DIR$/lessons17/public/js/main.js" />
         <option value="$PROJECT_DIR$/lessons17/public/css/main.css" />
-        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
         <option value="$PROJECT_DIR$/lessons14/HomeWork/app.js" />
         <option value="$PROJECT_DIR$/lessons17/data/data_in_array.js" />
         <option value="$PROJECT_DIR$/lessons14/index.js" />
@@ -200,6 +211,11 @@
         <option value="$PROJECT_DIR$/lessons17/main.js" />
         <option value="$PROJECT_DIR$/lessons17/views/index.pug" />
         <option value="$PROJECT_DIR$/lessons17/index.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/sub_category.tpl" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.twig" />
+        <option value="$PROJECT_DIR$/lessons17/costumers.json" />
       </list>
     </option>
   </component>
@@ -207,8 +223,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1928" />
-    <option name="y" value="-8" />
+    <option name="x" value="485" />
+    <option name="y" value="58" />
     <option name="width" value="974" />
     <option name="height" value="527" />
   </component>
@@ -220,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -248,17 +265,10 @@
               <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
               <item name="lessons17" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ErnestCurse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ErnestCurse" type="462c0819:PsiDirectoryNode" />
-              <item name="lessons17" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -340,19 +350,20 @@
       <workItem from="1555568157849" duration="5914000" />
       <workItem from="1555654591476" duration="15997000" />
       <workItem from="1555683027078" duration="1097000" />
-      <workItem from="1555919765606" duration="4738000" />
+      <workItem from="1555919765606" duration="9423000" />
+      <workItem from="1556000067110" duration="2047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="380008000" />
+    <option name="totallyTimeSpent" value="386740000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.15938166" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.15938166" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Capture Tool" order="4" />
@@ -369,7 +380,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.25785482" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" weight="0.25785482" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.25785482" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -390,16 +401,10 @@
     <select />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/featured.twig" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/featured_product.php" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/featured 2.php" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/category.twig" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/compare.twig" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search.twig" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/search 2.twig" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.twig" />
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/new_style.css" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_localcopy_3x.ocmod.zip/install.xml" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_calc_novaposhta_3.0_rus.ocmod.zip/install.xml" />
     <entry file="file://$PROJECT_DIR$/../../new.Zoocomplex/[ocmod.net] avail-ability_oc3x.ocmod/install.ocmod.xml">
@@ -517,13 +522,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lessons15/views/layout.pug">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
@@ -544,7 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php" />
     <entry file="file://$PROJECT_DIR$/lessons13/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -577,27 +574,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons17/data/data_in_file.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lessons17/data/data_in_array.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="770">
+          <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons17/app.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/import_yml.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="21" selection-end-column="3" />
+        <state relative-caret-position="495">
+          <caret line="374" column="104" selection-start-line="374" selection-start-column="104" selection-end-line="374" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons17/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2353">
+          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons17/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="677">
+          <caret line="71" column="14" selection-start-line="67" selection-start-column="38" selection-end-line="71" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lessons16/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="17" column="3" lean-forward="true" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="23" />
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="23" />
           <folding>
             <marker date="1555574854000" expanded="true" signature="299:505" ph="..." />
           </folding>
@@ -611,17 +622,97 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons17/main.js">
+    <entry file="file://$PROJECT_DIR$/lessons17/data/data_in_file.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons17/data/data_in_array.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="71" column="14" lean-forward="true" selection-start-line="67" selection-start-column="38" selection-end-line="71" selection-end-column="14" />
+        <state relative-caret-position="242">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lessons17/index.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/sub_category.tpl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="122" selection-start-line="122" selection-end-line="122" />
+        <state relative-caret-position="4554">
+          <caret line="207" column="16" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="e#2356#2844#0#HTML" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#div#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#div#0;n#div#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/product.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="111" column="36" lean-forward="true" selection-start-line="111" selection-start-column="36" selection-end-line="121" selection-end-column="47" />
+          <folding>
+            <element signature="e#143#150#1" expanded="true" />
+            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="e#130#137#1" expanded="true" />
+            <element signature="e#126#133#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/new_style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons17/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons17/Test file.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lessons17/costumers.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="111" column="1" lean-forward="true" selection-start-line="111" selection-start-column="1" selection-end-line="111" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#103#0" />
+            <element signature="e#104#210#0" />
+            <element signature="e#211#316#0" />
+            <element signature="e#317#424#0" />
+            <element signature="e#425#532#0" />
+            <element signature="e#533#640#0" />
+            <element signature="e#641#749#0" />
+            <element signature="e#750#857#0" />
+            <element signature="e#858#963#0" />
+            <element signature="e#964#1074#0" />
+            <element signature="e#1075#1180#0" />
+            <element signature="e#1181#1292#0" />
+            <element signature="e#1293#1401#0" />
+            <element signature="e#1402#1509#0" />
+            <element signature="e#1510#1614#0" />
+            <element signature="e#1615#1721#0" />
+            <element signature="e#1722#1827#0" />
+            <element signature="e#1828#1935#0" />
+            <element signature="e#1936#2043#0" />
+            <element signature="e#2044#2151#0" />
+            <element signature="e#2152#2260#0" />
+            <element signature="e#2261#2368#0" />
+            <element signature="e#2369#2474#0" />
+            <element signature="e#2475#2585#0" />
+            <element signature="e#2586#2691#0" />
+            <element signature="e#2692#2803#0" />
+            <element signature="e#2804#2912#0" />
+            <element signature="e#2913#3020#0" />
+          </folding>
         </state>
       </provider>
     </entry>
