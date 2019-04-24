@@ -1,192 +1,192 @@
-{
+[{
   "id": {
     "$oid": "5cbd77cba6a0e81fe42cb200"
   } ,
   "name": "John" ,
   "address": "Highway 71"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb201"
   } ,
   "name": "Peter" ,
   "address": "Lowstreet 4"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb202"
   } ,
   "name": "Amy" ,
   "address": "Apple st 652"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb203"
   } ,
   "name": "Hannah" ,
   "address": "Mountain 21"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb204"
   } ,
   "name": "Michael" ,
   "address": "Valley 345"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb205"
   } ,
   "name": "Sandy" ,
   "address": "Ocean blvd 2"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb206"
   } ,
   "name": "Betty" ,
   "address": "Green Grass 1"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb207"
   } ,
   "name": "Richard" ,
   "address": "Sky st 331"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb208"
   } ,
   "name": "Susan" ,
   "address": "One way 98"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb209"
   } ,
   "name": "Vicky" ,
   "address": "Yellow Garden 2"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb20a"
   } ,
   "name": "Ben" ,
   "address": "Park Lane 38"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb20b"
   } ,
   "name": "William" ,
   "address": "Central st 954"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb20c"
   } ,
   "name": "Chuck" ,
   "address": "Main Road 989"
-}
+},
 {
   "_id": {
     "$oid": "5cbd77cba6a0e81fe42cb20d"
   } ,
   "name": "Viola" ,
   "address": "Sideway 1633"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145cf"
   } ,
   "name": "John" ,
   "address": "Highway 71"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d0"
   } ,
   "name": "Peter" ,
   "address": "Lowstreet 4"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d1"
   } ,
   "name": "Amy" ,
   "address": "Apple st 652"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d2"
   } ,
   "name": "Hannah" ,
   "address": "Mountain 21"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d3"
   } ,
   "name": "Michael" ,
   "address": "Valley 345"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d4"
   } ,
   "name": "Sandy" ,
   "address": "Ocean blvd 2"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d5"
   } ,
   "name": "Betty" ,
   "address": "Green Grass 1"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d6"
   } ,
   "name": "Richard" ,
   "address": "Sky st 331"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d7"
   } ,
   "name": "Susan" ,
   "address": "One way 98"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d8"
   } ,
   "name": "Vicky" ,
   "address": "Yellow Garden 2"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145d9"
   } ,
   "name": "Ben" ,
   "address": "Park Lane 38"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145da"
   } ,
   "name": "William" ,
   "address": "Central st 954"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145db"
   } ,
   "name": "Chuck" ,
   "address": "Main Road 989"
-}
+},
 {
   "_id": {
     "$oid": "5cbd7850fc27cf171c1145dc"
@@ -194,3 +194,4 @@
   "name": "Viola" ,
   "address": "Sideway 1633"
 }
+]

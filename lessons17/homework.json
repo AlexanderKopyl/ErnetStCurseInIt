@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5cc0362069ac78aa5d77d33c"},"name":"vasily","age":{"$numberInt":"40"},"town":"Kyiv","hobbies":["sport","music"],"pets":[{"dogs":{"name":"bobik"}},{"cats":{"name":"Murzik"}}]}
+{"_id":{"$oid":"5cc0391b69ac78aa5d77d33e"},"name":"Petya","age":{"$numberInt":"20"},"town":"Dnipro","sallary":{"$numberInt":"2000"}}
+{"_id":{"$oid":"5cc0391b69ac78aa5d77d33f"},"name":"Vasya","age":{"$numberInt":"30"},"town":"Kyiv"}
+{"_id":{"$oid":"5cc0391b69ac78aa5d77d340"},"name":"Geba","age":{"$numberInt":"50"},"town":"Lviv","sallary":{"$numberInt":"5000"}}
+{"_id":{"$oid":"5cc0396d69ac78aa5d77d341"},"name":"Geba","age":{"$numberInt":"50"},"town":"Lviv","cars":["lada","mers"]}
