@@ -1,0 +1,2 @@
+db.series.find({countOfseasons:{$gt:4}})  //Find seasons more 4
+db.series.find({genre: {$in: ["боевик"]}}) //Find genre in array
