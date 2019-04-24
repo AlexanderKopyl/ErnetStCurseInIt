@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5cc05544311053f5dc542b7f"},"title":"Игра престолов","countOfseasons":{"$numberInt":"8"},"listOfkeyActors":["Питер Динклэйдж","Лена Хеди"],"genre":["боевик","драма","мелодрама","приключения","фэнтези"],"country":"USA"}
+{"_id":{"$oid":"5cc05544311053f5dc542b80"},"title":"Шерлок","countOfseasons":{"$numberInt":"4"},"listOfkeyActors":["Бенедикт Камбербэтч","Мартин Фриман"],"genre":["детектив","драма"],"country":"Great Britain"}
+{"_id":{"$oid":"5cc05544311053f5dc542b81"},"title":"Пуаро","listOfkeyActors":["Дэвид Суше","Николас Фэррел"],"genre":["детектив","драма","криминал","триллер"],"country":"USA"}
+{"_id":{"$oid":"5cc05544311053f5dc542b82"},"title":"Компьютерщики","countOfseasons":{"$numberInt":"4"},"listOfkeyActors":["Криc О`Дауд","Ричард Айоаде"],"genre":["комедия"],"country":"USA"}
+{"_id":{"$oid":"5cc05544311053f5dc542b83"},"title":"Как я встретил вашу маму","countOfseasons":{"$numberInt":"9"},"listOfkeyActors":["Джош Рэднор","Джейсон Сигел"],"genre":["комедия","мелодрама"],"country":"USA"}
+{"_id":{"$oid":"5cc05544311053f5dc542b84"},"title":"Кровь и песок","countOfseasons":{"$numberInt":"3"},"listOfkeyActors":["Ману Беннетт","Дэниел Фьюрригал"],"genre":["биографический","боевик","драма","исторический","приключения"],"country":"USA"}
